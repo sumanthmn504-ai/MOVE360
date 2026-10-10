@@ -33,7 +33,7 @@ function Layout() {
     <div className="min-h-screen bg-slate-100 text-slate-900">
       <aside className="fixed inset-y-0 left-0 w-72 border-r border-slate-800 bg-slate-950 text-slate-50 shadow-2xl shadow-slate-900/30">
         <div className="flex items-center gap-3 border-b border-slate-800 p-5">
-          <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-gradient-to-br from-emerald-400 to-emerald-600 text-lg font-black text-slate-950 shadow-lg shadow-emerald-500/30">
+          <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-linear-to-br from-emerald-400 to-emerald-600 text-lg font-black text-slate-950 shadow-lg shadow-emerald-500/30">
             M
           </div>
           <div>
